@@ -7,7 +7,7 @@
 * 범죄 통계 및 기상 데이터 분석을 통해 월별/행정구역별 예측 범죄율을 제공
 * SNS 트위터 데이터를 활용하여 국가별 범죄 관련 핫키워드를 시각화하여 제공
 # 4. 작품 구성도
-![Alt text](https://drive.google.com/file/d/0B597WMio4B4nU3RRVklmVXM0VG8/view?usp=sharing)
+![architecture](./architecture.png)
 # 5. 작품의 개발배경 및 필요성
 * 최근 '묻지마 범죄', '여성혐오 범죄' 등의 예측할 수 없는 범죄 문제가 대두되었음
 * 국내에서 발생했던 범죄 정보를 행정구역별로 쉽게 볼 수 있는 서비스가 부족함
